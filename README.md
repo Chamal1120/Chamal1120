@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Chamal1120
+- 👀 I’m interested in developing apps
+- 🌱 I’m currently learning software engineering
+- 💞️ I’m looking to collaborate on some projects
+- 📫 Reach me on kenway213beep@gmail.com
