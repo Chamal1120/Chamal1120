@@ -21,7 +21,7 @@
 
 ### :technologist: About Me :
 I am a front-End Developer from Sri Lanka.
-- :telescope: I’m a undergraduate Software Engineer and contributing to frontend for building web applications.
+- :telescope: I’m an undergraduate Software Engineer contributing to frontend for building web applications.
 
 - :seedling: Exploring on new technolegies to optmize my workflow.
 
