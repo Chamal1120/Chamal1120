@@ -21,13 +21,13 @@
 
 ### :technologist: About Me :
 I am a front-End Developer from Sri Lanka.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m a undergraduate Software Engineer and contributing to frontend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring on new technolegies to optmize my workflow.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I write articles about new trends and technologies for the front end development.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ChamalRandika-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chamal-randika/)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ChamalRandika-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chamal-randika/)
 
 ---
 
