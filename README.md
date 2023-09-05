@@ -1,11 +1,11 @@
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/chamal-randika/">
+  <a href="https://www.linkedin.com/in/chamal-randika/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.youtube.com/channel/UCUhdpdyXQXNZnm-uCavUhjQ">
+  <a href="https://www.youtube.com/channel/UCUhdpdyXQXNZnm-uCavUhjQ" target="blank">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://medium.com/@kenway213beep">
+  <a href="https://medium.com/@kenway213beep" target="blank">
     <img src="https://img.shields.io/badge/medium-white?style=for-the-badge&logo=medium&logoColor=black" alt="Medium Badge"/>
   </a>
 </div>
