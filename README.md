@@ -23,7 +23,7 @@
 I'm a front-End developer from Sri Lanka.
 - :telescope: Currently studying as an undergraduate Software Engineer while contributing to frontend for building web applications.
 
-- :seedling: Exploring on new technolegies to optmize my workflow.
+- :seedling: Exploring on new technologies to optmize my workflow.
 
 - :zap: In my free time, I write articles about new trends and technologies for the front end development.
 
