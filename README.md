@@ -20,8 +20,8 @@
 </h1>
 
 ### :technologist: About Me :
-I am a front-End Developer from Sri Lanka.
-- :telescope: I’m an undergraduate Software Engineer contributing to frontend for building web applications.
+I'm a front-End developer from Sri Lanka.
+- :telescope: Currently studying as an undergraduate Software Engineer while contributing to frontend for building web applications.
 
 - :seedling: Exploring on new technolegies to optmize my workflow.
 
@@ -43,7 +43,7 @@ I am a front-End Developer from Sri Lanka.
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-### :fire: My Stats :
+### :fire: Profile Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Chamal1120&theme=dark&background=000000)](https://git.io/streak-stats)
 
